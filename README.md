@@ -1,6 +1,6 @@
 Ciallo～(∠・ω< )⌒★ This is @Murasame0721
 
-I'm a high school student in China , intersted in program.
+I'm a college student in China , intersted in program.
 Now , I'm learning React Native.
 
 <!---
